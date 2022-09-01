@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LStanford
-- 👀 I’m interested in ... Blockchain & Web3 Development  
+- 👀 I’m interested in ... Blockchain, Web3 Development, & Network Engineering
 - 🌱 I’m currently learning ... PowerSHell, Javascript, Python, Solidity,
 - 💞️ I’m looking to collaborate on ... ask and find out
 - 📫 How to reach me ... 540-446-6633; sirleeofstanford@gmail.com
