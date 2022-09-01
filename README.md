@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Blockchain, Web3 Development, & Network Engineering
 - 🌱 I’m currently learning ... PowerSHell, Javascript, Python, Solidity,
 - 💞️ I’m looking to collaborate on ... ask and find out
-- 📫 How to reach me ... 540-446-6633; sirleeofstanford@gmail.com
+- 📫 How to reach me ... sirleeofstanford@gmail.com
 
 <!---
 LStanford1983/LStanford1983 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
