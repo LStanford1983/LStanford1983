@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LStanford
 - 👀 I’m interested in ... Blockchain, Web3 Development, & Network Engineering
-- 🌱 I’m currently learning ... PowerShell, Javascript, Python, Solidity, Git Bash, 
+- 🌱 I’m currently learning ... PowerShell, Javascript, Python, Solidity, Git Bash.
+    I have ambitions to one day be able to create and develop my own blockchain apps
 - 💞️ I’m looking to collaborate on ... ask and find out
 - 📫 How to reach me ... sirleeofstanford@gmail.com
 
